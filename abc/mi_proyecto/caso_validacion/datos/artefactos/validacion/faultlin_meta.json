@@ -1,0 +1,81 @@
+{
+  "salidas": {
+    "base": "FaultlinMC.npy",
+    "veg": "FaultlinMC_veg.npy",
+    "ref": "FaultlinMC_ref.npy",
+    "ug": "FaultlinMC_ug.npy"
+  },
+  "shape": [
+    8760,
+    100,
+    15
+  ],
+  "fallas_totales": {
+    "base": 727,
+    "veg": 484,
+    "ref": 168,
+    "ug": 36
+  },
+  "curva": "dunn",
+  "dunn_alpha": 2e-17,
+  "dunn_exp": 9.91,
+  "theta_ms": null,
+  "beta": null,
+  "largo_km_por_linea": [
+    2.82,
+    4.42,
+    0.61,
+    0.56,
+    1.54,
+    1.67,
+    0.32,
+    0.77,
+    0.33,
+    1.3,
+    4.89,
+    2.99,
+    0.24,
+    0.49,
+    2.0
+  ],
+  "enlaces_inmunes": true,
+  "lineas_enlace": [
+    12,
+    13,
+    14
+  ],
+  "altura_poste_m": 12.0,
+  "horas_espera": 3,
+  "semilla": 42,
+  "viento_nc": "../Proyecto oficial/Outputs/BaseHoraEWE_arauco.nc",
+  "escenario_clima": "with_EWE",
+  "anio_offset": 8760,
+  "zonas_por_linea": [
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    2,
+    3,
+    3,
+    1,
+    2,
+    2,
+    3,
+    3,
+    2
+  ],
+  "mitigadas": {
+    "metodo": "curva_directa_numeros_comunes",
+    "curva": "dunn",
+    "alpha": 2e-17,
+    "exp": 9.91,
+    "factor_ref": 0.21629070220585725,
+    "razon_clase3_clase5": 1.1670786275180196,
+    "rho_ug": 0.95,
+    "dbh_antes_cm": 30.0,
+    "dbh_despues_cm": 10.0
+  }
+}

@@ -1,0 +1,27 @@
+# Repo público: lo generado localmente nunca se versiona
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.log
+*.bak
+~$*
+
+# Datos pesados o de terceros
+app.pkl
+*.mdb
+*.accdb
+*.nc
+*.db
+*.sqlite
+
+# Temporales de Gurobi/Pyomo
+*.lp
+*.mps
+*.sol
+**/tmp/
+**/logs/
+
+# Cualquier otro caso de estudio vive en el repo privado
+abc/mi_proyecto/caso_elmelon/
+abc/mi_proyecto/caso_chilquinta/

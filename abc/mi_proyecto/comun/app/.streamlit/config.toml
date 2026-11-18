@@ -1,0 +1,26 @@
+# Tema de la app. Streamlit lee este archivo desde el directorio donde se
+# ejecuta `streamlit run`, o sea abc/mi_proyecto/app/app.
+#
+# Borrar este archivo devuelve la app al tema por defecto de Streamlit.
+
+[theme]
+# Color de acento: botones `type="primary"`, sliders, checkboxes marcados,
+# barras de progreso y los bordes de foco. Es el que cambia el color del
+# botón "Lanzar barrido".
+# Default de Streamlit: "#FF4B4B" (rojo).
+primaryColor = "#1f77b4"
+
+# Fondo principal y fondo de la barra lateral / expanders / inputs.
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+
+textColor = "#31333F"
+font = "sans serif"
+
+[server]
+# El barrido escribe artefactos en esta misma carpeta mientras corre. Sin
+# esto, Streamlit detecta los archivos nuevos y re-ejecuta el script solo,
+# lo que en medio de un barrido significa recargar la página cada pocos
+# minutos sin motivo.
+fileWatcherType = "poll"
+folderWatchBlacklist = ["artefactos"]

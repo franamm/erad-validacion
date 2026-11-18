@@ -1,0 +1,44 @@
+{
+  "resolucion": "horaria",
+  "fuente_solar": "explorador",
+  "fuente_eolico": "nc",
+  "origen_puntos": "..\\Proyecto oficial\\Inputs\\SystemzoneV1_arauco.xlsx",
+  "puntos": {
+    "1": [
+      -37.645,
+      -73.658
+    ],
+    "2": [
+      -37.715,
+      -73.636
+    ],
+    "3": [
+      -37.645,
+      -73.538
+    ]
+  },
+  "zonas": [
+    1,
+    2,
+    3
+  ],
+  "distancia_max_km": 11.6,
+  "anio_destino": 2030,
+  "escenario_clima": "baseline",
+  "anio_offset": 8760,
+  "altura_buje_m": 30.0,
+  "cf_medio": {
+    "solar": [
+      0.15658657317156502,
+      0.1554715105569214,
+      0.14893283063556198
+    ],
+    "eolico": [
+      0.22237044026481734,
+      0.21879847286025975,
+      0.10340389054099143
+    ]
+  },
+  "detalle_solar": "Explorador Solar (Ministerio de Energía / DGF U. de Chile), generación FV horaria DHC_PV 2004-2016, panel fijo 38° norte, pérdidas 14 %, inversor 96 %, PVWatts; climatología (día del año, hora) llevada a 2030. Construido en graficos_perfiles_generacion.ipynb (perfil_solar_explorador_8760.npz).",
+  "actualizado": "2026-09-14 22:00:08"
+}

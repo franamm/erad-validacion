@@ -1,0 +1,43 @@
+# Entorno para correr la cadena por consola en Linux (Python 3.11).
+#
+# Versiones FIJAS: son las del erad-env de Windows con que se corrió el
+# estudio (verificadas el 2026-10-16). Un MILP con MIPGap 2 % no tiene
+# solución única, así que otra versión de Gurobi o Pyomo puede devolver otro
+# incumbente igual de válido: fijarlas es lo que hace comparables las
+# corridas del servidor con las del notebook.
+#
+#   pip install -r servidor/requirements_linux.txt
+
+# Modelo y solver
+pyomo==6.9.5
+gurobipy==13.0.0          # trae el solver; NO hace falta instalar Gurobi aparte
+numpy==2.3.4
+scipy~=1.18            # 3.12: pandapower 3.5.4 exige scipy~=1.18 (con 3.11 sería 1.16.3)
+pandas==2.3.3
+psutil==7.1.3             # RAM; recursos.py también lee cgroups/SLURM
+
+# Red
+pandapower==3.5.4
+networkx==3.6.1
+
+# Clima y fallas (pipeline E2, construir_faultlin, construir_perfiles)
+xarray==2025.11.0
+netCDF4==1.7.3
+cftime==1.6.5
+requests==2.32.5          # APIs de Open-Meteo y ARClim
+openpyxl==3.1.5           # SystemzoneV1*.xlsx y perfiles en Excel
+
+# Importados en la cadena aunque no se dibuje nada:
+# run_barrido_medidas -> grafo -> data_loader -> streamlit / plotly.
+# Streamlit no levanta ningún servidor al importarse; solo hace falta que esté.
+streamlit==1.55.0
+plotly==6.3.1
+matplotlib==3.10.7
+Pillow==12.0.0
+
+# Reporte del estudio en Word y PDF (generar_reporte.py)
+python-docx==1.2.0
+reportlab==5.1.0
+
+# Opcional: solo si la red viene en OpenDSS (crear_caso.py --red Master.dss)
+# opendssdirect.py

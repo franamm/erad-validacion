@@ -1,0 +1,25 @@
+{
+  "escenarios_usados": [
+    0,
+    7,
+    23,
+    26,
+    32,
+    34,
+    38,
+    52,
+    91,
+    95
+  ],
+  "ponderacion": "equiprobable",
+  "elegido": {
+    "valor_esperado": 0,
+    "minimax_objetivo": 95,
+    "minimax_regret": 95,
+    "min_E_ens": 26,
+    "min_E_saidi": 26
+  },
+  "wait_and_see_E_objetivo": 52056.8966765739,
+  "mejor_E_objetivo": 32462.708948089836,
+  "EVPI": -19594.187728484067
+}

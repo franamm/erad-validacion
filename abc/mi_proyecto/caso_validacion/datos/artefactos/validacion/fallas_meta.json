@@ -1,0 +1,15 @@
+{
+  "fuente_viento": "nc_real",
+  "metodo_mitigadas": "curva_directa",
+  "theta_ref": 35.01235882554059,
+  "ratio_clase3_clase5": 1.1670786275180196,
+  "rho_ug": 0.95,
+  "horas_reparacion": 3,
+  "semillas": "ver faultlin_meta.json",
+  "fallas": {
+    "base": 727,
+    "veg": 484,
+    "ref": 168,
+    "ug": 36
+  }
+}

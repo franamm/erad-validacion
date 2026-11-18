@@ -1,0 +1,768 @@
+{
+  "criterio": "objetivo",
+  "por_medida": {
+    "dg_eol": {
+      "escenario": 57,
+      "criterio": "objetivo",
+      "distancia": 1002.9123940946083,
+      "ranking": [
+        {
+          "escenario": 57,
+          "distancia": 1002.9123940946083
+        },
+        {
+          "escenario": 93,
+          "distancia": 1611.7912783546853
+        },
+        {
+          "escenario": 21,
+          "distancia": 4094.665845547199
+        },
+        {
+          "escenario": 9,
+          "distancia": 4660.809888487078
+        },
+        {
+          "escenario": 98,
+          "distancia": 6514.170414083499
+        },
+        {
+          "escenario": 78,
+          "distancia": 9320.73817699575
+        },
+        {
+          "escenario": 1,
+          "distancia": 9355.779751247399
+        },
+        {
+          "escenario": 82,
+          "distancia": 14829.189910671812
+        },
+        {
+          "escenario": 15,
+          "distancia": 17914.457374266676
+        },
+        {
+          "escenario": 41,
+          "distancia": 20934.57570991027
+        }
+      ],
+      "promedios": {
+        "objetivo": 30023.776194781858,
+        "ens": 3183.93578,
+        "saidi": 0.13498501075335748,
+        "saifi": 0.04876111331819046,
+        "asai": 0.9999845907521971,
+        "costo_ens": 15919.678899999999
+      },
+      "valores_rep": {
+        "objetivo": 29020.86380068725,
+        "ens": 3340.12958,
+        "saidi": 0.2053774514210488,
+        "saifi": 0.10215733565402428,
+        "asai": 0.9999765550854542,
+        "costo_ens": 16700.647899999996
+      }
+    },
+    "dg_fos": {
+      "escenario": 21,
+      "criterio": "objetivo",
+      "distancia": 613.8552974087361,
+      "ranking": [
+        {
+          "escenario": 21,
+          "distancia": 613.8552974087361
+        },
+        {
+          "escenario": 1,
+          "distancia": 866.2195593002543
+        },
+        {
+          "escenario": 82,
+          "distancia": 6831.205635708728
+        },
+        {
+          "escenario": 98,
+          "distancia": 9987.507432608836
+        },
+        {
+          "escenario": 57,
+          "distancia": 12132.154250925989
+        },
+        {
+          "escenario": 9,
+          "distancia": 12990.884136984794
+        },
+        {
+          "escenario": 93,
+          "distancia": 24057.099469732377
+        },
+        {
+          "escenario": 15,
+          "distancia": 25116.51858054541
+        },
+        {
+          "escenario": 78,
+          "distancia": 27212.947646218236
+        },
+        {
+          "escenario": 41,
+          "distancia": 30317.57440598088
+        }
+      ],
+      "promedios": {
+        "objetivo": 187822.20861207755,
+        "ens": 13550.176599999997,
+        "saidi": 0.5063272592934692,
+        "saifi": 0.2067433896049761,
+        "asai": 0.9999422000845556,
+        "costo_ens": 67750.88300000002
+      },
+      "valores_rep": {
+        "objetivo": 187208.3533146688,
+        "ens": 12189.409499999994,
+        "saidi": 0.4466996952752782,
+        "saifi": 0.22137019952118292,
+        "asai": 0.999949006884101,
+        "costo_ens": 60947.04750000003
+      }
+    },
+    "dg_sol": {
+      "escenario": 82,
+      "criterio": "objetivo",
+      "distancia": 4885.202586747895,
+      "ranking": [
+        {
+          "escenario": 82,
+          "distancia": 4885.202586747895
+        },
+        {
+          "escenario": 1,
+          "distancia": 5034.630795730001
+        },
+        {
+          "escenario": 57,
+          "distancia": 11071.143717852465
+        },
+        {
+          "escenario": 21,
+          "distancia": 15712.91257654359
+        },
+        {
+          "escenario": 98,
+          "distancia": 17397.459933197402
+        },
+        {
+          "escenario": 9,
+          "distancia": 17483.634119250302
+        },
+        {
+          "escenario": 93,
+          "distancia": 26455.67672534469
+        },
+        {
+          "escenario": 78,
+          "distancia": 44813.450384903976
+        },
+        {
+          "escenario": 15,
+          "distancia": 48090.59764684904
+        },
+        {
+          "escenario": 41,
+          "distancia": 51800.594879186436
+        }
+      ],
+      "promedios": {
+        "objetivo": 119830.17228814917,
+        "ens": 22426.138224999995,
+        "saidi": 0.8939332221585665,
+        "saifi": 0.38236213716806555,
+        "asai": 0.9998979528285206,
+        "costo_ens": 112130.69112499997
+      },
+      "valores_rep": {
+        "objetivo": 124715.37487489707,
+        "ens": 23806.969930000003,
+        "saidi": 0.9100203509752105,
+        "saifi": 0.28308477613529515,
+        "asai": 0.9998961163982905,
+        "costo_ens": 119034.84965000002
+      }
+    },
+    "edrp": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 5392.653624998435,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 5392.653624998435
+        },
+        {
+          "escenario": 9,
+          "distancia": 5910.976874996297
+        },
+        {
+          "escenario": 82,
+          "distancia": 8322.882375004905
+        },
+        {
+          "escenario": 21,
+          "distancia": 14074.529875004548
+        },
+        {
+          "escenario": 1,
+          "distancia": 17901.701375006436
+        },
+        {
+          "escenario": 78,
+          "distancia": 19742.255874999915
+        },
+        {
+          "escenario": 93,
+          "distancia": 19839.269624998677
+        },
+        {
+          "escenario": 57,
+          "distancia": 36938.17387500126
+        },
+        {
+          "escenario": 15,
+          "distancia": 40031.21037500238
+        },
+        {
+          "escenario": 41,
+          "distancia": 52700.69837500114
+        }
+      ],
+      "promedios": {
+        "objetivo": 202967.76512585275,
+        "ens": 37263.434600000015,
+        "saidi": 1.607251774893712,
+        "saifi": 0.4937836249122184,
+        "asai": 0.9998165237699892,
+        "costo_ens": 186317.17299999998
+      },
+      "valores_rep": {
+        "objetivo": 197575.1115008543,
+        "ens": 36306.58410000001,
+        "saidi": 1.673738521730787,
+        "saifi": 0.40837107752614404,
+        "asai": 0.9998089339587065,
+        "costo_ens": 181532.92049999998
+      }
+    },
+    "ess_4h": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 3254.5719899587857,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 3254.5719899587857
+        },
+        {
+          "escenario": 82,
+          "distancia": 6985.736989965633
+        },
+        {
+          "escenario": 9,
+          "distancia": 9380.965510043345
+        },
+        {
+          "escenario": 1,
+          "distancia": 11326.689255262085
+        },
+        {
+          "escenario": 21,
+          "distancia": 16647.506347281393
+        },
+        {
+          "escenario": 93,
+          "distancia": 19711.218801579293
+        },
+        {
+          "escenario": 78,
+          "distancia": 22571.61525558724
+        },
+        {
+          "escenario": 57,
+          "distancia": 37692.29948995935
+        },
+        {
+          "escenario": 15,
+          "distancia": 40531.26698995786
+        },
+        {
+          "escenario": 41,
+          "distancia": 53969.11080126281
+        }
+      ],
+      "promedios": {
+        "objetivo": 216871.87449079132,
+        "ens": 33052.87487,
+        "saidi": 1.3867351612559027,
+        "saifi": 0.45193601012534346,
+        "asai": 0.9998416968994001,
+        "costo_ens": 165264.37435
+      },
+      "valores_rep": {
+        "objetivo": 213617.30250083253,
+        "ens": 42723.46050000001,
+        "saidi": 1.9675373221894512,
+        "saifi": 0.46277950433763027,
+        "asai": 0.9997753952828551,
+        "costo_ens": 213617.30250000002
+      }
+    },
+    "ess_5h": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 4953.015993775334,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 4953.015993775334
+        },
+        {
+          "escenario": 9,
+          "distancia": 7682.521506225748
+        },
+        {
+          "escenario": 82,
+          "distancia": 8684.180993781541
+        },
+        {
+          "escenario": 21,
+          "distancia": 16652.414006233827
+        },
+        {
+          "escenario": 1,
+          "distancia": 19223.472431094007
+        },
+        {
+          "escenario": 78,
+          "distancia": 21582.0579592305
+        },
+        {
+          "escenario": 93,
+          "distancia": 22233.658372450154
+        },
+        {
+          "escenario": 57,
+          "distancia": 39390.743493778195
+        },
+        {
+          "escenario": 15,
+          "distancia": 42229.71099377569
+        },
+        {
+          "escenario": 41,
+          "distancia": 51047.64311833744
+        }
+      ],
+      "promedios": {
+        "objetivo": 218570.31849460676,
+        "ens": 36669.74363299999,
+        "saidi": 1.566659049955494,
+        "saifi": 0.4936490809665298,
+        "asai": 0.9998211576426991,
+        "costo_ens": 183348.718165
+      },
+      "valores_rep": {
+        "objetivo": 213617.30250083143,
+        "ens": 42723.46050000001,
+        "saidi": 1.9675373221894452,
+        "saifi": 0.46277950433763576,
+        "asai": 0.9997753952828551,
+        "costo_ens": 213617.30250000002
+      }
+    },
+    "ess_6h": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 6001.054750001902,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 6001.054750001902
+        },
+        {
+          "escenario": 9,
+          "distancia": 6634.482750001276
+        },
+        {
+          "escenario": 82,
+          "distancia": 9732.219750008197
+        },
+        {
+          "escenario": 21,
+          "distancia": 15604.375250006153
+        },
+        {
+          "escenario": 1,
+          "distancia": 19393.61275000911
+        },
+        {
+          "escenario": 78,
+          "distancia": 20742.147250005248
+        },
+        {
+          "escenario": 93,
+          "distancia": 21780.7902500004
+        },
+        {
+          "escenario": 57,
+          "distancia": 40438.78225000258
+        },
+        {
+          "escenario": 15,
+          "distancia": 43277.74975000019
+        },
+        {
+          "escenario": 41,
+          "distancia": 56778.6927500013
+        }
+      ],
+      "promedios": {
+        "objetivo": 219618.35725083467,
+        "ens": 43923.67145,
+        "saidi": 1.8938735621779368,
+        "saifi": 0.57373393992019,
+        "asai": 0.9997838043878792,
+        "costo_ens": 219618.35724999997
+      },
+      "valores_rep": {
+        "objetivo": 213617.30250083277,
+        "ens": 42723.46050000001,
+        "saidi": 1.967537322189461,
+        "saifi": 0.46277950433763804,
+        "asai": 0.9997753952828551,
+        "costo_ens": 213617.30250000002
+      }
+    },
+    "meg": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 5889.390503051283,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 5889.390503051283
+        },
+        {
+          "escenario": 9,
+          "distancia": 10179.213059679285
+        },
+        {
+          "escenario": 78,
+          "distancia": 15330.465288426349
+        },
+        {
+          "escenario": 21,
+          "distancia": 17205.367622828548
+        },
+        {
+          "escenario": 82,
+          "distancia": 22184.62561730985
+        },
+        {
+          "escenario": 1,
+          "distancia": 24677.4436239505
+        },
+        {
+          "escenario": 93,
+          "distancia": 27385.854564496578
+        },
+        {
+          "escenario": 57,
+          "distancia": 34257.73447258776
+        },
+        {
+          "escenario": 41,
+          "distancia": 37040.92683791337
+        },
+        {
+          "escenario": 15,
+          "distancia": 38826.58982749321
+        }
+      ],
+      "promedios": {
+        "objetivo": 213437.30947343787,
+        "ens": 38040.216299999985,
+        "saidi": 1.6405580901463381,
+        "saifi": 0.5787434683258672,
+        "asai": 0.9998127216792071,
+        "costo_ens": 190201.0815
+      },
+      "valores_rep": {
+        "objetivo": 207547.91897038658,
+        "ens": 36142.632000000005,
+        "saidi": 1.6438392527810475,
+        "saifi": 0.5308815480008346,
+        "asai": 0.9998123471172624,
+        "costo_ens": 180713.16000000003
+      }
+    },
+    "mess": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 6001.054749998148,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 6001.054749998148
+        },
+        {
+          "escenario": 9,
+          "distancia": 6634.482749996183
+        },
+        {
+          "escenario": 82,
+          "distancia": 9732.219750007585
+        },
+        {
+          "escenario": 21,
+          "distancia": 15604.375250006648
+        },
+        {
+          "escenario": 1,
+          "distancia": 19393.612750008295
+        },
+        {
+          "escenario": 78,
+          "distancia": 20742.14725000426
+        },
+        {
+          "escenario": 93,
+          "distancia": 21780.790250002
+        },
+        {
+          "escenario": 57,
+          "distancia": 40438.782250003074
+        },
+        {
+          "escenario": 15,
+          "distancia": 43277.74975000264
+        },
+        {
+          "escenario": 41,
+          "distancia": 56778.69275000243
+        }
+      ],
+      "promedios": {
+        "objetivo": 219618.35725085437,
+        "ens": 43923.67145,
+        "saidi": 1.8938735621778853,
+        "saifi": 0.5737339399202073,
+        "asai": 0.9997838043878792,
+        "costo_ens": 219618.35724999997
+      },
+      "valores_rep": {
+        "objetivo": 213617.30250085623,
+        "ens": 42723.46050000001,
+        "saidi": 1.9675373221893926,
+        "saifi": 0.46277950433765197,
+        "asai": 0.9997753952828551,
+        "costo_ens": 213617.30250000002
+      }
+    },
+    "reconfig_topo": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 1355.6428377894554,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 1355.6428377894554
+        },
+        {
+          "escenario": 9,
+          "distancia": 3583.6909327584
+        },
+        {
+          "escenario": 21,
+          "distancia": 6742.95616249185
+        },
+        {
+          "escenario": 15,
+          "distancia": 8863.767370449175
+        },
+        {
+          "escenario": 1,
+          "distancia": 9189.926680442033
+        },
+        {
+          "escenario": 93,
+          "distancia": 19350.05404260465
+        },
+        {
+          "escenario": 78,
+          "distancia": 33887.055509448066
+        },
+        {
+          "escenario": 82,
+          "distancia": 36925.61888973031
+        },
+        {
+          "escenario": 57,
+          "distancia": 38689.069644792304
+        },
+        {
+          "escenario": 41,
+          "distancia": 50159.49292959906
+        }
+      ],
+      "promedios": {
+        "objetivo": 58520.30393030906,
+        "ens": 10939.952049999998,
+        "saidi": 0.43978172707390695,
+        "saifi": 0.14755437546027741,
+        "asai": 0.9999497966064983,
+        "costo_ens": 54699.76025000001
+      },
+      "valores_rep": {
+        "objetivo": 59875.94676809852,
+        "ens": 11246.244500000003,
+        "saidi": 0.5137068737197473,
+        "saifi": 0.16002248439111666,
+        "asai": 0.9999413576628173,
+        "costo_ens": 56231.22250000002
+      }
+    },
+    "refuerzo": {
+      "escenario": 98,
+      "criterio": "objetivo",
+      "distancia": 1687.0002663687337,
+      "ranking": [
+        {
+          "escenario": 98,
+          "distancia": 1687.0002663687337
+        },
+        {
+          "escenario": 82,
+          "distancia": 5418.165266375348
+        },
+        {
+          "escenario": 9,
+          "distancia": 10948.537233631214
+        },
+        {
+          "escenario": 78,
+          "distancia": 16428.09276637208
+        },
+        {
+          "escenario": 1,
+          "distancia": 19432.877602677792
+        },
+        {
+          "escenario": 21,
+          "distancia": 19918.429733637808
+        },
+        {
+          "escenario": 93,
+          "distancia": 26094.84473363124
+        },
+        {
+          "escenario": 57,
+          "distancia": 36124.727766372
+        },
+        {
+          "escenario": 15,
+          "distancia": 38963.69526636877
+        },
+        {
+          "escenario": 41,
+          "distancia": 61092.74723363441
+        }
+      ],
+      "promedios": {
+        "objetivo": 215304.30276722013,
+        "ens": 41345.16875,
+        "saidi": 1.7780338003426315,
+        "saifi": 0.5351206859750818,
+        "asai": 0.9997970281049836,
+        "costo_ens": 206725.84374999997
+      },
+      "valores_rep": {
+        "objetivo": 213617.3025008514,
+        "ens": 42723.46050000001,
+        "saidi": 1.9675373221894805,
+        "saifi": 0.46277950433763254,
+        "asai": 0.9997753952828551,
+        "costo_ens": 213617.30250000002
+      }
+    },
+    "soterramiento": {
+      "escenario": 9,
+      "criterio": "objetivo",
+      "distancia": 6310.542867122567,
+      "ranking": [
+        {
+          "escenario": 9,
+          "distancia": 6310.542867122567
+        },
+        {
+          "escenario": 98,
+          "distancia": 6324.99463287738
+        },
+        {
+          "escenario": 82,
+          "distancia": 10056.159632883995
+        },
+        {
+          "escenario": 21,
+          "distancia": 15280.435367129132
+        },
+        {
+          "escenario": 1,
+          "distancia": 19069.672867129004
+        },
+        {
+          "escenario": 78,
+          "distancia": 21066.087132880726
+        },
+        {
+          "escenario": 93,
+          "distancia": 21456.85036712259
+        },
+        {
+          "escenario": 15,
+          "distancia": 40362.29080410654
+        },
+        {
+          "escenario": 57,
+          "distancia": 40762.72213288065
+        },
+        {
+          "escenario": 41,
+          "distancia": 56454.75286712576
+        }
+      ],
+      "promedios": {
+        "objetivo": 219942.29713372877,
+        "ens": 43989.93845,
+        "saidi": 1.8988105175991783,
+        "saifi": 0.5786708953414176,
+        "asai": 0.9997832408084933,
+        "costo_ens": 219949.69225
+      },
+      "valores_rep": {
+        "objetivo": 226252.84000085134,
+        "ens": 45250.56800000001,
+        "saidi": 1.7809381086961635,
+        "saifi": 0.5936460362320543,
+        "asai": 0.9997966965629342,
+        "costo_ens": 226252.83999999997
+      }
+    }
+  },
+  "escenarios_representativos": [
+    9,
+    21,
+    57,
+    82,
+    98
+  ]
+}

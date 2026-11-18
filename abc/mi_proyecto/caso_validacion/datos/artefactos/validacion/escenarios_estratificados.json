@@ -1,0 +1,690 @@
+{
+  "criterio": "ens",
+  "n_estratos": 10,
+  "variante_baselines": "base",
+  "carpeta_baselines": "C:\\Users\\usuario\\erad\\abc\\mi_proyecto\\caso_validacion\\datos\\artefactos\\baselines",
+  "n_poblacion": 100,
+  "escenarios": [
+    17,
+    26,
+    43,
+    46,
+    49,
+    53,
+    54,
+    61,
+    81,
+    98
+  ],
+  "por_estrato": [
+    {
+      "estrato": 1,
+      "percentil": 5.0,
+      "escenario": 43,
+      "ens": 7049.7835
+    },
+    {
+      "estrato": 2,
+      "percentil": 15.0,
+      "escenario": 54,
+      "ens": 12757.731
+    },
+    {
+      "estrato": 3,
+      "percentil": 25.0,
+      "escenario": 81,
+      "ens": 14746.081499999998
+    },
+    {
+      "estrato": 4,
+      "percentil": 35.0,
+      "escenario": 17,
+      "ens": 17731.025
+    },
+    {
+      "estrato": 5,
+      "percentil": 45.0,
+      "escenario": 53,
+      "ens": 20985.897
+    },
+    {
+      "estrato": 6,
+      "percentil": 55.0,
+      "escenario": 49,
+      "ens": 23687.066999999995
+    },
+    {
+      "estrato": 7,
+      "percentil": 65.0,
+      "escenario": 46,
+      "ens": 26884.14
+    },
+    {
+      "estrato": 8,
+      "percentil": 75.0,
+      "escenario": 26,
+      "ens": 29847.5285
+    },
+    {
+      "estrato": 9,
+      "percentil": 85.0,
+      "escenario": 61,
+      "ens": 32553.947999999997
+    },
+    {
+      "estrato": 10,
+      "percentil": 95.0,
+      "escenario": 98,
+      "ens": 41910.761
+    }
+  ],
+  "media_muestra": 22815.396249999998,
+  "media_poblacion": 22772.356770000002,
+  "sesgo_pct": 0.1889987954900363,
+  "cola_excluida": {
+    "peor": 21,
+    "mejor": 71
+  },
+  "indicadores_por_escenario": [
+    {
+      "escenario": 0,
+      "ens": 29003.7445,
+      "saidi": 1.2721259483507161,
+      "fallas": 7
+    },
+    {
+      "escenario": 1,
+      "ens": 43643.9345,
+      "saidi": 1.902953925995957,
+      "fallas": 10
+    },
+    {
+      "escenario": 2,
+      "ens": 19236.7165,
+      "saidi": 0.8228549589145806,
+      "fallas": 7
+    },
+    {
+      "escenario": 3,
+      "ens": 31172.776500000004,
+      "saidi": 1.2122763434479569,
+      "fallas": 9
+    },
+    {
+      "escenario": 4,
+      "ens": 26786.494999999995,
+      "saidi": 1.3934679044256926,
+      "fallas": 9
+    },
+    {
+      "escenario": 5,
+      "ens": 14230.118999999999,
+      "saidi": 0.6235429008217085,
+      "fallas": 7
+    },
+    {
+      "escenario": 6,
+      "ens": 21120.139499999997,
+      "saidi": 0.7808945256318707,
+      "fallas": 8
+    },
+    {
+      "escenario": 7,
+      "ens": 10935.523,
+      "saidi": 0.4402794680184122,
+      "fallas": 3
+    },
+    {
+      "escenario": 8,
+      "ens": 13766.2225,
+      "saidi": 0.5250652907828525,
+      "fallas": 7
+    },
+    {
+      "escenario": 9,
+      "ens": 45250.568,
+      "saidi": 1.7809381086961626,
+      "fallas": 11
+    },
+    {
+      "escenario": 10,
+      "ens": 21711.015,
+      "saidi": 1.163527009765959,
+      "fallas": 5
+    },
+    {
+      "escenario": 11,
+      "ens": 30992.724,
+      "saidi": 1.2118203975445974,
+      "fallas": 9
+    },
+    {
+      "escenario": 12,
+      "ens": 32099.060500000003,
+      "saidi": 1.3224275096301812,
+      "fallas": 10
+    },
+    {
+      "escenario": 13,
+      "ens": 20081.900999999998,
+      "saidi": 0.779829534342896,
+      "fallas": 7
+    },
+    {
+      "escenario": 14,
+      "ens": 24735.596,
+      "saidi": 1.0573508425500342,
+      "fallas": 9
+    },
+    {
+      "escenario": 15,
+      "ens": 35268.1215,
+      "saidi": 1.6664688666056506,
+      "fallas": 8
+    },
+    {
+      "escenario": 16,
+      "ens": 30146.084499999997,
+      "saidi": 1.1842826059990412,
+      "fallas": 7
+    },
+    {
+      "escenario": 17,
+      "ens": 17731.025,
+      "saidi": 0.6923907322290055,
+      "fallas": 5
+    },
+    {
+      "escenario": 18,
+      "ens": 30061.209500000004,
+      "saidi": 1.2330989905491803,
+      "fallas": 6
+    },
+    {
+      "escenario": 19,
+      "ens": 33832.2435,
+      "saidi": 1.6690402673988625,
+      "fallas": 11
+    },
+    {
+      "escenario": 20,
+      "ens": 34574.229999999996,
+      "saidi": 1.7032160948903887,
+      "fallas": 9
+    },
+    {
+      "escenario": 21,
+      "ens": 47044.5465,
+      "saidi": 2.104176933830851,
+      "fallas": 9
+    },
+    {
+      "escenario": 22,
+      "ens": 20652.663,
+      "saidi": 1.0261822464946366,
+      "fallas": 7
+    },
+    {
+      "escenario": 23,
+      "ens": 19083.732500000002,
+      "saidi": 0.732158602123501,
+      "fallas": 4
+    },
+    {
+      "escenario": 24,
+      "ens": 16945.5285,
+      "saidi": 0.6205390219289865,
+      "fallas": 4
+    },
+    {
+      "escenario": 25,
+      "ens": 25075.087,
+      "saidi": 1.0405322497913043,
+      "fallas": 7
+    },
+    {
+      "escenario": 26,
+      "ens": 29847.5285,
+      "saidi": 1.326272876918074,
+      "fallas": 10
+    },
+    {
+      "escenario": 27,
+      "ens": 29933.46,
+      "saidi": 1.2436159192171141,
+      "fallas": 9
+    },
+    {
+      "escenario": 28,
+      "ens": 18263.571,
+      "saidi": 0.6544365883177272,
+      "fallas": 4
+    },
+    {
+      "escenario": 29,
+      "ens": 6646.354,
+      "saidi": 0.36430077678430745,
+      "fallas": 3
+    },
+    {
+      "escenario": 30,
+      "ens": 28254.7765,
+      "saidi": 1.1636186459524187,
+      "fallas": 11
+    },
+    {
+      "escenario": 31,
+      "ens": 22282.143,
+      "saidi": 0.9827813370613617,
+      "fallas": 9
+    },
+    {
+      "escenario": 32,
+      "ens": 9293.269499999999,
+      "saidi": 0.34528962063736324,
+      "fallas": 4
+    },
+    {
+      "escenario": 33,
+      "ens": 14177.643,
+      "saidi": 0.7037558543789246,
+      "fallas": 8
+    },
+    {
+      "escenario": 34,
+      "ens": 4469.09,
+      "saidi": 0.21533386303519167,
+      "fallas": 5
+    },
+    {
+      "escenario": 35,
+      "ens": 7855.522499999999,
+      "saidi": 0.4435616080139198,
+      "fallas": 5
+    },
+    {
+      "escenario": 36,
+      "ens": 31253.429500000002,
+      "saidi": 1.6532363777780015,
+      "fallas": 9
+    },
+    {
+      "escenario": 37,
+      "ens": 25375.796499999997,
+      "saidi": 1.2227932721158907,
+      "fallas": 9
+    },
+    {
+      "escenario": 38,
+      "ens": 21213.0795,
+      "saidi": 0.811989365732313,
+      "fallas": 8
+    },
+    {
+      "escenario": 39,
+      "ens": 28899.595999999998,
+      "saidi": 1.1705170627696704,
+      "fallas": 7
+    },
+    {
+      "escenario": 40,
+      "ens": 9066.419,
+      "saidi": 0.528102695109645,
+      "fallas": 3
+    },
+    {
+      "escenario": 41,
+      "ens": 44635.301,
+      "saidi": 1.781742719113856,
+      "fallas": 15
+    },
+    {
+      "escenario": 42,
+      "ens": 16612.2585,
+      "saidi": 0.6193991571705875,
+      "fallas": 5
+    },
+    {
+      "escenario": 43,
+      "ens": 7049.7835,
+      "saidi": 0.33900248423466467,
+      "fallas": 5
+    },
+    {
+      "escenario": 44,
+      "ens": 34247.79,
+      "saidi": 1.9537885416771434,
+      "fallas": 9
+    },
+    {
+      "escenario": 45,
+      "ens": 28354.068999999996,
+      "saidi": 1.0865023249888528,
+      "fallas": 9
+    },
+    {
+      "escenario": 46,
+      "ens": 26884.14,
+      "saidi": 1.4159299452529661,
+      "fallas": 9
+    },
+    {
+      "escenario": 47,
+      "ens": 10073.27,
+      "saidi": 0.6936680512670939,
+      "fallas": 3
+    },
+    {
+      "escenario": 48,
+      "ens": 17029.57,
+      "saidi": 0.8918860626947969,
+      "fallas": 8
+    },
+    {
+      "escenario": 49,
+      "ens": 23687.066999999995,
+      "saidi": 1.1569090890804308,
+      "fallas": 6
+    },
+    {
+      "escenario": 50,
+      "ens": 6625.2955,
+      "saidi": 0.40332773458584353,
+      "fallas": 4
+    },
+    {
+      "escenario": 51,
+      "ens": 31695.570499999994,
+      "saidi": 1.2995072878706098,
+      "fallas": 9
+    },
+    {
+      "escenario": 52,
+      "ens": 13993.884,
+      "saidi": 0.5791988091765818,
+      "fallas": 2
+    },
+    {
+      "escenario": 53,
+      "ens": 20985.897,
+      "saidi": 0.9072887646212799,
+      "fallas": 4
+    },
+    {
+      "escenario": 54,
+      "ens": 12757.731,
+      "saidi": 0.6176893600329891,
+      "fallas": 3
+    },
+    {
+      "escenario": 55,
+      "ens": 20284.1595,
+      "saidi": 0.9457793154776872,
+      "fallas": 5
+    },
+    {
+      "escenario": 56,
+      "ens": 26343.3065,
+      "saidi": 1.276977078660726,
+      "fallas": 11
+    },
+    {
+      "escenario": 57,
+      "ens": 35764.854999999996,
+      "saidi": 1.5611889459938784,
+      "fallas": 8
+    },
+    {
+      "escenario": 58,
+      "ens": 21251.868000000002,
+      "saidi": 0.9419574159936437,
+      "fallas": 8
+    },
+    {
+      "escenario": 59,
+      "ens": 31403.9695,
+      "saidi": 1.657544396056068,
+      "fallas": 11
+    },
+    {
+      "escenario": 60,
+      "ens": 12998.9265,
+      "saidi": 0.5476681384332224,
+      "fallas": 6
+    },
+    {
+      "escenario": 61,
+      "ens": 32553.947999999997,
+      "saidi": 1.2738692709223853,
+      "fallas": 8
+    },
+    {
+      "escenario": 62,
+      "ens": 11913.113999999998,
+      "saidi": 0.43231382488324777,
+      "fallas": 6
+    },
+    {
+      "escenario": 63,
+      "ens": 25828.518500000002,
+      "saidi": 1.3296321254119436,
+      "fallas": 7
+    },
+    {
+      "escenario": 64,
+      "ens": 10892.121,
+      "saidi": 0.7000915244350128,
+      "fallas": 8
+    },
+    {
+      "escenario": 65,
+      "ens": 17600.795000000002,
+      "saidi": 0.9121398949312898,
+      "fallas": 7
+    },
+    {
+      "escenario": 66,
+      "ens": 8012.197499999999,
+      "saidi": 0.3717098977139007,
+      "fallas": 5
+    },
+    {
+      "escenario": 67,
+      "ens": 28159.660499999998,
+      "saidi": 1.2158266869160288,
+      "fallas": 9
+    },
+    {
+      "escenario": 68,
+      "ens": 25776.4365,
+      "saidi": 1.0785232716800601,
+      "fallas": 8
+    },
+    {
+      "escenario": 69,
+      "ens": 15939.341499999999,
+      "saidi": 0.5630194346941307,
+      "fallas": 7
+    },
+    {
+      "escenario": 70,
+      "ens": 10854.734999999999,
+      "saidi": 0.37220830916708303,
+      "fallas": 5
+    },
+    {
+      "escenario": 71,
+      "ens": 3533.6555,
+      "saidi": 0.14246186202495856,
+      "fallas": 5
+    },
+    {
+      "escenario": 72,
+      "ens": 16344.357000000002,
+      "saidi": 0.7486330004257731,
+      "fallas": 5
+    },
+    {
+      "escenario": 73,
+      "ens": 25488.6405,
+      "saidi": 1.103590238734616,
+      "fallas": 9
+    },
+    {
+      "escenario": 74,
+      "ens": 22180.609999999997,
+      "saidi": 0.8495579671517798,
+      "fallas": 7
+    },
+    {
+      "escenario": 75,
+      "ens": 14341.936000000002,
+      "saidi": 0.7786282062887009,
+      "fallas": 7
+    },
+    {
+      "escenario": 76,
+      "ens": 28024.371,
+      "saidi": 1.2353787200659783,
+      "fallas": 7
+    },
+    {
+      "escenario": 77,
+      "ens": 6522.4575,
+      "saidi": 0.3332193468574935,
+      "fallas": 3
+    },
+    {
+      "escenario": 78,
+      "ens": 37477.715,
+      "saidi": 1.8754697751449139,
+      "fallas": 9
+    },
+    {
+      "escenario": 79,
+      "ens": 13569.407,
+      "saidi": 0.5940237561225824,
+      "fallas": 8
+    },
+    {
+      "escenario": 80,
+      "ens": 15314.682,
+      "saidi": 0.7843275300806958,
+      "fallas": 8
+    },
+    {
+      "escenario": 81,
+      "ens": 14746.081499999998,
+      "saidi": 0.618649304961876,
+      "fallas": 8
+    },
+    {
+      "escenario": 82,
+      "ens": 40832.2065,
+      "saidi": 1.6835903057854844,
+      "fallas": 14
+    },
+    {
+      "escenario": 83,
+      "ens": 13642.222999999998,
+      "saidi": 0.6539001813725984,
+      "fallas": 4
+    },
+    {
+      "escenario": 84,
+      "ens": 21514.285499999998,
+      "saidi": 0.9457793154776871,
+      "fallas": 5
+    },
+    {
+      "escenario": 85,
+      "ens": 34881.10249999999,
+      "saidi": 1.8181513405144814,
+      "fallas": 12
+    },
+    {
+      "escenario": 86,
+      "ens": 13074.332000000002,
+      "saidi": 0.6539001813725983,
+      "fallas": 6
+    },
+    {
+      "escenario": 87,
+      "ens": 34493.9335,
+      "saidi": 1.4185024635606471,
+      "fallas": 9
+    },
+    {
+      "escenario": 88,
+      "ens": 17447.633,
+      "saidi": 0.7240622097954613,
+      "fallas": 7
+    },
+    {
+      "escenario": 89,
+      "ens": 19820.184,
+      "saidi": 0.9026622547195431,
+      "fallas": 8
+    },
+    {
+      "escenario": 90,
+      "ens": 27002.193,
+      "saidi": 1.0691283275390209,
+      "fallas": 6
+    },
+    {
+      "escenario": 91,
+      "ens": 26956.932999999997,
+      "saidi": 1.1537610508212055,
+      "fallas": 9
+    },
+    {
+      "escenario": 92,
+      "ens": 16158.8205,
+      "saidi": 0.802800044253573,
+      "fallas": 6
+    },
+    {
+      "escenario": 93,
+      "ens": 44315.9655,
+      "saidi": 1.6693185285016479,
+      "fallas": 9
+    },
+    {
+      "escenario": 94,
+      "ens": 22764.703999999998,
+      "saidi": 0.9367363883943889,
+      "fallas": 10
+    },
+    {
+      "escenario": 95,
+      "ens": 27495.238,
+      "saidi": 1.3163459958897819,
+      "fallas": 7
+    },
+    {
+      "escenario": 96,
+      "ens": 26158.344,
+      "saidi": 1.3613036029783996,
+      "fallas": 9
+    },
+    {
+      "escenario": 97,
+      "ens": 18216.139000000003,
+      "saidi": 0.6154096305161911,
+      "fallas": 3
+    },
+    {
+      "escenario": 98,
+      "ens": 41910.761,
+      "saidi": 1.9363150854395692,
+      "fallas": 11
+    },
+    {
+      "escenario": 99,
+      "ens": 20784.500999999997,
+      "saidi": 0.9945968175422952,
+      "fallas": 7
+    }
+  ]
+}
